@@ -6,9 +6,11 @@
 
 - [프로그래머스](https://github.com/seongmink/Algorithm/blob/master/programmers)
 
-
+<br>
 
 ## 문제풀이
+
+다음과 같은 형식으로 작성합니다.
 
 ```
 문제이름
@@ -22,7 +24,7 @@
 (참고)
 ```
 
-와 같이 작성합니다.
+<br>
 
 ## 알고리즘 사이트
 
