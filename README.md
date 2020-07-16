@@ -4,7 +4,7 @@
 
 ## 목차
 
-- [프로그래머스](https://github.com/seongmink/Algorithm/blob/master/programmers)
+- [프로그래머스](./docs/programmers)
 
 <br>
 
