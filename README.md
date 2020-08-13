@@ -4,7 +4,11 @@
 
 ## 목차
 
-- [프로그래머스](./docs/programmers)
+- #### 문제풀이
+
+  - [프로그래머스](./docs/programmers)
+
+- #### [알고리즘 공부](./docs/algorithms)
 
 <br>
 
