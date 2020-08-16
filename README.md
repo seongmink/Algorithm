@@ -13,6 +13,7 @@
   - [달팽이 배열](./docs/algorithms/%EB%8B%AC%ED%8C%BD%EC%9D%B4%20%EB%B0%B0%EC%97%B4.md)
   - [부분 집합](./docs/algorithms/%EB%B6%80%EB%B6%84%20%EC%A7%91%ED%95%A9.md)
   - [순열](./docs/algorithms/%EC%88%9C%EC%97%B4.md)
+  - [조합](./docs/algorithms/%EC%A1%B0%ED%95%A9.md)
 
 <br>
 
