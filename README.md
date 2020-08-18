@@ -14,6 +14,8 @@
   - [부분 집합](./docs/algorithms/%EB%B6%80%EB%B6%84%20%EC%A7%91%ED%95%A9.md)
   - [순열](./docs/algorithms/%EC%88%9C%EC%97%B4.md)
   - [조합](./docs/algorithms/%EC%A1%B0%ED%95%A9.md)
+  - [깊이 우선 탐색(DFS)](./docs/algorithms/%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89(DFS).md)
+  - [너비 우선 탐색(BFS)](./docs/algorithms/%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89(BFS).md)
 
 <br>
 
